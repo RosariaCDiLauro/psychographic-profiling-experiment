@@ -1,10 +1,9 @@
 # 🧠 Psychographic Cyber Targeting
 *A Computational Framework for Psychographic Profiling in Digital Environments*
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RosariaCDiLauro/psychographic-profiling-experiment/blob/main/psychographic-profiling-experiment.ipynb)
-
-
 
 **Author:** Rosaria Chiara Di Lauro
+
+*[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RosariaCDiLauro/psychographic-profiling-experiment/blob/main/psychographic-profiling-experiment.ipynb)*
 
 ---
 
